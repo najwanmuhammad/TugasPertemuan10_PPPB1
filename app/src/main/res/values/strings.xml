@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TugasPertemuan10</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <array name="ticket_types">
+        <item>Economic Premium Class</item>
+        <item>Executive Class</item>
+        <item>Compartment Class</item>
+    </array>
+</resources>
